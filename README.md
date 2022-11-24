@@ -1,2 +1,2 @@
 # diceConsoleGame
-Dice console game (C language)
+Dice console game in plain C
